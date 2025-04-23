@@ -1,22 +1,23 @@
-<h1 align="center">Hi 👋, I'm Vivin R</h1>
-<h3 align="center">Building secure and scalable network systems with a passion for open standards and global routing trust.</h3>
+<h1 align="center">Hi There👋, I'm Vivin R</h1>
+<h3 align="center">Passionate about Networking and Cloud, building reliable systems that scale.</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🧠 I’m a tech enthusiast deeply involved in **network infrastructure**, **security compliance**, and **Linux server administration**.
+- 🧠 I’m a tech enthusiast deeply involved in **network infrastructure**, **security compliance**, and **Devops**.
 - 🛡️ Currently researching **RPKI & IRR** for a journal publication on improving trust in global BGP routing.
-- 🌐 Formerly at **IBITS Technology Solutions** and **SeekaHost Ltd**, where I managed and secured large-scale web hosting platforms.
-- 🎓 Aspiring to pursue a **Master's in Computer Science** with a focus on networking and systems research.
-
+- 🌐 Formerly worked on Datacenter and Hosting environments, managing and securing large-scale web hosting platforms.
+- 😄 I break things (on purpose) just to learn how to **secure and automate** them better.
+<!-- Formerly worked as a Datacenter Engineer and Hosting Specialist, managing and securing large-scale web hosting platforms -->
+  
 ---
 
 ### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-VivinR-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vivinr/)
-[![Twitter](https://img.shields.io/badge/Twitter-@iamvivinr1-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/iamvivinr1)
-[![Email](https://img.shields.io/badge/Email-vivinr.contact%40gmail.com-D14836?logo=gmail&style=for-the-badge)](mailto:vivinr.contact@gmail.com)
+<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://reddit.com/user/yourusername"><img src="https://img.shields.io/badge/-Reddit-FF4500?&style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ---
 
@@ -25,21 +26,21 @@
 | Category         | Tools & Technologies                                                                 |
 |------------------|---------------------------------------------------------------------------------------|
 | **Languages**    | Python, Bash, HTML/CSS, JavaScript                                                   |
-| **Networking**   | RPKI, IRR, BGP, VLANs, NAT                                                            |
-| **Cloud & Infra**| AWS, cPanel/WHM, Virtualmin, Cloudflare                                               |
-| **Monitoring**   | Nagios, UptimeRobot, Netdata                                                         |
-| **Security**     | CSF, Fail2Ban, Let’s Encrypt, SSL/TLS                                                 |
-| **Operating Sys**| Ubuntu, CentOS, Rocky Linux                                                           |
-| **Version Ctrl** | Git, GitHub, GitLab                                                                  |
-| **Tools**        | VSCode, tmux, Postman, Wireshark                                                     |
+| **Networking**   |                                                          |
+| **Cloud & Infra**|                                                         |
+| **Monitoring**   |                                                          |
+| **Security**     |                                                  |
+| **Operating Sys**|                                                            |
+| **Version Ctrl** |                                                                  |
+| **Tools**        |                                                      |
 
 ---
 
 ### 🎓 Certifications
 
-- **Cisco Networking Essentials** - Cisco Networking Academy  
-- **Linux Server Professional** - SeekaHost Ltd  
-- **Certified Web Hosting Manager** - Internal Training at IBITS  
+- **Cisco Networking Essentials** -   
+- **Linux Server Professional** - 
+- **Certified Web Hosting Manager** -   
 - *(More to come as I level up!)*
 
 ---
