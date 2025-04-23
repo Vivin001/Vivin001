@@ -6,9 +6,9 @@
 ### 👨‍💻 About Me
 
 - 🧠 I’m a tech enthusiast deeply involved in **network infrastructure**, and **cloud.**
-- 🛡️ Currently researching **RPKI & IRR** for a journal publication on improving trust in global BGP routing.
 - 🌐 Formerly worked on Datacenter and Hosting environments, managing and securing large-scale web hosting platforms.
 - 😄 I break things (on purpose) just to learn how to **secure and automate** them better.
+<!-- - 🛡️ Currently researching **RPKI & IRR** for a journal publication on improving trust in global BGP routing. -->
 <!-- Formerly worked as a Datacenter Engineer and Hosting Specialist, managing and securing large-scale web hosting platforms -->
   
 ---
