@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Vivin R</h1>
-<h3 align="center">Learning something new every day — currently deep-diving into Cloud and Network Security.</h3>
+<h3 align="center">Learning something new every day — currently deep-diving into Cloud and Networking Technologies </h3>
 
 ---
 
