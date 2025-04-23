@@ -1,60 +1,65 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1 align="center">Hi 👋, I'm Vivin R</h1>
+<h3 align="center">Building secure and scalable network systems with a passion for open standards and global routing trust.</h3>
 
-[Brief Introduction - Remove this afterwards]
+---
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+### 👨‍💻 About Me
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+- 🧠 I’m a tech enthusiast deeply involved in **network infrastructure**, **security compliance**, and **Linux server administration**.
+- 🛡️ Currently researching **RPKI & IRR** for a journal publication on improving trust in global BGP routing.
+- 🌐 Formerly at **IBITS Technology Solutions** and **SeekaHost Ltd**, where I managed and secured large-scale web hosting platforms.
+- 🎓 Aspiring to pursue a **Master's in Computer Science** with a focus on networking and systems research.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+### 📫 Connect with Me
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VivinR-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vivinr/)
+[![Twitter](https://img.shields.io/badge/Twitter-@iamvivinr1-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/iamvivinr1)
+[![Email](https://img.shields.io/badge/Email-vivinr.contact%40gmail.com-D14836?logo=gmail&style=for-the-badge)](mailto:vivinr.contact@gmail.com)
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+---
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### 🛠️ Technologies & Tools
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+| Category         | Tools & Technologies                                                                 |
+|------------------|---------------------------------------------------------------------------------------|
+| **Languages**    | Python, Bash, HTML/CSS, JavaScript                                                   |
+| **Networking**   | RPKI, IRR, BGP, VLANs, NAT                                                            |
+| **Cloud & Infra**| AWS, cPanel/WHM, Virtualmin, Cloudflare                                               |
+| **Monitoring**   | Nagios, UptimeRobot, Netdata                                                         |
+| **Security**     | CSF, Fail2Ban, Let’s Encrypt, SSL/TLS                                                 |
+| **Operating Sys**| Ubuntu, CentOS, Rocky Linux                                                           |
+| **Version Ctrl** | Git, GitHub, GitLab                                                                  |
+| **Tools**        | VSCode, tmux, Postman, Wireshark                                                     |
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+### 🎓 Certifications
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+- **Cisco Networking Essentials** - Cisco Networking Academy  
+- **Linux Server Professional** - SeekaHost Ltd  
+- **Certified Web Hosting Manager** - Internal Training at IBITS  
+- *(More to come as I level up!)*
+
+---
+
+### 🚀 Projects
+
+- 🔐 **[BGP Trust Toolkit (WIP)](https://github.com/yourusername/bgptoolkit)**  
+  Tools to visualize and validate RPKI and IRR data for network operators.
+
+- 🌐 **[ServerStack Scripts](https://github.com/yourusername/serverstack-scripts)**  
+  Bash scripts to manage web hosting servers with CSF, SSL, backups, and monitoring.
+
+- 📊 **[NetDash](https://github.com/yourusername/netdash)**  
+  A minimal dashboard for real-time server and network monitoring (built with Flask + Netdata API).
+
+- 🧪 **[Research Repo](https://github.com/yourusername/rpki-irr-research)**  
+  Companion repo for my journal publication on RPKI and IRR trust modeling.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Vivin's GitHub stats" />
+</p>
